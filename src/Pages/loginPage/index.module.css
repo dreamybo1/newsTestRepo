@@ -1,0 +1,10 @@
+.loginForm{
+    position: absolute;
+    top: 50%;right: 50%;
+    transform: translate(50%,-50%);
+    width: 450px;
+    height: 600px;
+    border: 2px solid #9C27B0E6;
+    border-radius: 15px;
+    background-color: #e6bfede6;
+}
